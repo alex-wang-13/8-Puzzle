@@ -15,6 +15,25 @@ class Puzzle:
     state: list[int] = []
     valid: bool = False
 
+    def action(command: str) -> None:
+        """
+        A function to map a command string to a corresponding puzzle function.
+        
+        Parameters:
+            command (str):
+                A string representing a command to execute on this puzzle.
+        """
+
+        # Remove whitespace and standardize command string.
+        args: list[str] = command.lower().strip().split()
+
+        if "setstate" in args[0]:
+            # args = ["setstate", "xxx", "xxx", "xxx"]
+            # Get the puzzle sequence from the command.
+            Puzzle.set_state("".join(command[1:]))
+        elif "printstate" in args[0]:
+            Puzzle.print_state()
+
     def set_state(state: str) -> None:
         """
         A function to set and validate the state of the puzzle with a new state.
@@ -44,6 +63,12 @@ class Puzzle:
         Puzzle.state = state
         Puzzle.valid = True
 
+    def print_state() -> None:
+        if Puzzle.valid:
+            print(Puzzle.state[0], Puzzle.state[1], Puzzle.state[2])
+            print(Puzzle.state[3], Puzzle.state[4], Puzzle.state[5])
+            print(Puzzle.state[6], Puzzle.state[7], Puzzle.state[8])
+
     def reset_puzzle() -> None:
         """
         A method to reset the state of the puzzle to its default/intitial state.
@@ -68,4 +93,4 @@ if __name__ == "__main__":
     with open(sys.argv[1]) as file:
         for line in file:
             # Do each action in the file.
-            action(line)
+            Puzzle.action(line)

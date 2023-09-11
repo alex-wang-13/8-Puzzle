@@ -41,6 +41,10 @@ class PuzzleTestCase(unittest.TestCase):
         # Erroneously accepts a length 10 argument.
         self.assertRaises(ValueError, Puzzle.set_state, state="0123456789")
 
+    def test_print_state(self):
+        Puzzle.set_state("012345678")
+        Puzzle.print_state()
+
 # Run the test.
 if __name__ == "__main__":
     unittest.main()

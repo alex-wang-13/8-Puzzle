@@ -90,6 +90,30 @@ class PuzzleTestCase(unittest.TestCase):
         Puzzle.set_state("876543210")
         Puzzle.print_state()
         self.assertEqual(output.getvalue().strip(), "8 7 6\n5 4 3\n2 1 0\n".strip())
+        sys.stdout = output
+
+    def test_move(self):
+        Puzzle.set_state("012345678")
+        Puzzle.move("down")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 0, 4, 5, 6, 7, 8], msg="Did not move the blank tile down.")
+        Puzzle.move("right")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 4, 0, 5, 6, 7, 8], msg="Did not move the blank tile right.")
+        Puzzle.move("right")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 4, 5, 0, 6, 7, 8], msg="Did not move the blank tile right.")
+        Puzzle.move("down")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 4, 5, 8, 6, 7, 0], msg="Did not move the blank tile down.")
+        Puzzle.move("left")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 4, 5, 8, 6, 0, 7], msg="Did not move the blank tile left.")
+        Puzzle.move("left")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 4, 5, 8, 0, 6, 7], msg="Did not move the blank tile left.")
+        Puzzle.move("up")
+        self.assertEqual(Puzzle.state, [3, 1, 2, 0, 5, 8, 4, 6, 7], msg="Did not move the blank tile up.")
+        Puzzle.move("up")
+        self.assertEqual(Puzzle.state, [0, 1, 2, 4, 5, 8, 4, 6, 7], msg="Did not move the blank tile up.")
+        Puzzle.move("right")
+        self.assertEqual(Puzzle.state, [1, 0, 2, 4, 5, 8, 4, 6, 7], msg="Did not move the blank tile right.")
+        Puzzle.move("right")
+        self.assertEqual(Puzzle.state, [1, 2, 0, 4, 5, 8, 4, 6, 7], msg="Did not move the blank tile right.")
 
 # Run the test.
 if __name__ == "__main__":

@@ -23,6 +23,7 @@ class Puzzle:
     
     state: list[int] = []
     valid: bool = False
+    max_depth: int = 0
 
     def action(command: str) -> None:
         """
@@ -190,8 +191,15 @@ class Puzzle:
     def solve_beam(k) -> None:
         pass
 
-    def max_nodes(n) -> None:
-        pass
+    def max_nodes(n: int) -> None:
+        """
+        A function to set the maximum nodes to be considered during a search.
+
+        Parameters:
+            n (int): The maximum nodes to be considered.
+        """
+        
+        Puzzle.max_depth = n
 
     def initialize() -> None:
         """

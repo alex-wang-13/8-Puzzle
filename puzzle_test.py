@@ -116,6 +116,27 @@ class PuzzleTestCase(unittest.TestCase):
         Puzzle.move(Direction.RIGHT)
         self.assertEqual(Puzzle.state, [1, 2, 0, 3, 5, 8, 4, 6, 7], msg="Did not move the blank tile right.")
 
+    def test_move_exception(self):
+        Puzzle.initialize()
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.UP)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.LEFT)
+        Puzzle.move(Direction.RIGHT)
+        Puzzle.move(Direction.RIGHT)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.UP)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.RIGHT)
+        Puzzle.move(Direction.DOWN)
+        Puzzle.move(Direction.DOWN)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.DOWN)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.RIGHT)
+        Puzzle.move(Direction.LEFT)
+        Puzzle.move(Direction.LEFT)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.DOWN)
+        self.assertRaises(RuntimeError, Puzzle.move, move=Direction.LEFT)
+        # Test for invalid move name.
+        self.assertRaises(ValueError, Puzzle.move, move="")
+        self.assertRaises(ValueError, Puzzle.move, move="down-left")
+        self.assertRaises(ValueError, Puzzle.move, move="hello")
+
 # Run the test.
 if __name__ == "__main__":
     unittest.main()

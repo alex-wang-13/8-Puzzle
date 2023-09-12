@@ -1,3 +1,4 @@
+import random
 from enum import Enum
 
 class Direction(Enum):
@@ -140,6 +141,37 @@ class Puzzle:
                     Puzzle._swap(b_pos, b_pos+1)
                 case _:
                     raise ValueError('The move direction is not Direction.UP, Direction.DOWN, Direction.LEFT, or Direction.RIGHT.')
+
+    def randomize_state(n: int) -> None:
+        """
+        A function to make a random number of steps from the puzzle's initial state.
+
+        Parameters:
+            n (int): The number of steps to take from the initial step.
+        """
+        
+        # Re-initialize puzzle before shuffling.
+        Puzzle.initialize()
+        if Puzzle.valid:
+            # Repeat n times.
+            for _ in range(n):
+                # Search for a valid move.
+                searching: bool = True
+                while searching:
+                    # Choose a random direction.
+                    direction: Direction = random.choice(list(Direction))
+                    try: 
+                        Puzzle.move(direction)
+                        searching = False
+                    except RuntimeError:
+                        pass
+
+    def initialize() -> None:
+        """
+        A function to initialize the state of the puzzle to "021 345 678".
+        """
+
+        Puzzle.set_state("012345678")
 
     def reset_puzzle() -> None:
         """

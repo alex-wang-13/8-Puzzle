@@ -30,7 +30,7 @@ class Puzzle:
         if "setstate" in args[0]:
             # args = ["setstate", "xxx", "xxx", "xxx"]
             # Get the puzzle sequence from the command.
-            Puzzle.set_state("".join(command[1:]))
+            Puzzle.set_state("".join(args[1:]))
         elif "printstate" in args[0]:
             Puzzle.print_state()
 

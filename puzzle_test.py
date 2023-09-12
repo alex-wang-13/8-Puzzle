@@ -16,6 +16,21 @@ class PuzzleTestCase(unittest.TestCase):
     def test_action(self):
         Puzzle.action("setState 012 345 678")
         self.assertEqual(Puzzle.state, [i for i in range(9)])
+        Puzzle.action("setState 876 543 210")
+        self.assertEqual(Puzzle.state, [8, 7, 6, 5, 4, 3, 2, 1, 0])
+        # Testing ValueErrors.
+        # Erroneously accepts a length 9 state argument outside the range [0, 8].
+        self.assertRaises(ValueError, Puzzle.action, command="setState 123 456 789")
+        # Erroneously accepts a length 9 argument with duplicate numbers.
+        self.assertRaises(ValueError, Puzzle.action, command="setState 011 345 688")
+        # "Erroneously accepts a length 9 argument with one duplicate number.
+        self.assertRaises(ValueError, Puzzle.action, command="setState 001 345 689")
+        # Erroneously accepts a length 10 argument.
+        self.assertRaises(ValueError, Puzzle.action, command="setState 012 345 6789")
+        # Erroneously accepts a length 1 argument.
+        self.assertRaises(ValueError, Puzzle.action, command="setState 0")
+        # Erroneously accepts a length 0 argument.
+        self.assertRaises(ValueError, Puzzle.action, command="setState")
 
     def test_init_state(self):
         self.assertEqual(Puzzle.state, [], msg="The puzzle state is not initially an empty list.")
@@ -44,7 +59,7 @@ class PuzzleTestCase(unittest.TestCase):
         self.assertTrue(Puzzle.valid)
 
     def test_set_state_exception(self):
-        # Erroneously accepts a length 9 state argument outside the raneg [0, 8].
+        # Erroneously accepts a length 9 state argument outside the range [0, 8].
         self.assertRaises(ValueError, Puzzle.set_state, state="123456789")
         # Erroneously accepts a length 9 argument with duplicate numbers.
         self.assertRaises(ValueError, Puzzle.set_state, state="011345688")
@@ -52,6 +67,10 @@ class PuzzleTestCase(unittest.TestCase):
         self.assertRaises(ValueError, Puzzle.set_state, state="001345689")
         # Erroneously accepts a length 10 argument.
         self.assertRaises(ValueError, Puzzle.set_state, state="0123456789")
+        # Erroneously accepts a length 1 argument.
+        self.assertRaises(ValueError, Puzzle.set_state, state=" 0")
+        # Erroneously accepts a length 0 argument.
+        self.assertRaises(ValueError, Puzzle.set_state, state="")
 
     def test_print_state(self):
         Puzzle.set_state("012345678")

@@ -51,14 +51,14 @@ class Puzzle:
             # Shuffle the puzzle with n moves.
             Puzzle.randomize_state(int(args[1]))
         elif "solve" in args[0] and "a-star" in args[1]:
-            pass
             heuristic = args[2]
+            Puzzle.solve_astar(heuristic)
         elif "solve" in args[0] and "beam" in args[1]:
-            pass
             k = args[2]
+            Puzzle.solve_beam(k)
         elif "maxnodes" in args[0]:
-            pass
             n = args[1]
+            Puzzle.max_nodes(n)
         else:
             print(f"Action (f{args[0]}) not implemented.")
 
@@ -185,10 +185,10 @@ class Puzzle:
                     except RuntimeError:
                         pass
 
-    def solve_astar(hueristic) -> None:
+    def solve_astar(hueristic: str) -> None:
         pass
 
-    def solve_beam(k) -> None:
+    def solve_beam(k: int) -> None:
         pass
 
     def max_nodes(n: int) -> None:

@@ -137,6 +137,9 @@ class PuzzleTestCase(unittest.TestCase):
         self.assertRaises(ValueError, Puzzle.move, move="down-left")
         self.assertRaises(ValueError, Puzzle.move, move="hello")
 
+    def test_randomize_state(self):
+        pass
+
 # Run the test.
 if __name__ == "__main__":
     unittest.main()

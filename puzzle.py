@@ -1,3 +1,11 @@
+from enum import Enum
+
+class Direction(Enum):
+    UP    = 1
+    DOWN  = 2
+    LEFT  = 3
+    RIGHT = 4
+
 class Puzzle:
     """
     A simple struct for holding the puzzle state.
@@ -90,13 +98,13 @@ class Puzzle:
         if Puzzle.valid:
             Puzzle.state[p1], Puzzle.state[p2] = Puzzle.state[p2], Puzzle.state[p1]
 
-    def move(move: str) -> None:
+    def move(move: Direction) -> None:
         """
         A function to move the blank tile in the puzzle.
 
         Parameters:
-            move (str):
-                A string representing the desired direction of movement for the
+            move (Direction):
+                An integer representing the desired direction of movement for the
                 blank tile.
 
         Raises:
@@ -104,33 +112,32 @@ class Puzzle:
                 When the direction of movement is not possible for the blank tile.
             
             ValueError:
-                When the given move direction is not understandable (i.e. not "up",
-                "down", "left", or "right").
+                When the given move direction is not understandable (i.e. not Direction.UP,
+                Direction.DOWN, Direction.LEFT, or Direction.RIGHT).
         """
 
         if Puzzle.valid:
-            move: str = move.strip().lower()
             # Get the position of the blank tile.
             b_pos: int = Puzzle.state.index(0)
             match move:
-                case "up":
+                case Direction.UP:
                     if b_pos < 3:
                         raise RuntimeError("It is not possible to move the blank tile up.")
                     Puzzle._swap(b_pos, b_pos-3)
-                case "down":
+                case Direction.DOWN:
                     if b_pos > 5:
                         raise RuntimeError("It is not possible to move the blank tile down.")
                     Puzzle._swap(b_pos, b_pos+3)
-                case "left":
+                case Direction.LEFT:
                     if b_pos % 3 == 0:
                         raise RuntimeError("It is not possible to move the blank tile left.")
                     Puzzle._swap(b_pos, b_pos-1)
-                case "right":
+                case Direction.RIGHT:
                     if b_pos % 3 == 2:
                         raise RuntimeError("It is not possible to move the blank tile right.")
                     Puzzle._swap(b_pos, b_pos+1)
                 case _:
-                    raise ValueError('The move direction is not "up", "down", "left", or "right".')
+                    raise ValueError('The move direction is not Direction.UP, Direction.DOWN, Direction.LEFT, or Direction.RIGHT.')
 
     def reset_puzzle() -> None:
         """

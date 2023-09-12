@@ -41,6 +41,8 @@ class Puzzle:
             Puzzle.set_state("".join(args[1:]))
         elif "printstate" in args[0]:
             Puzzle.print_state()
+        else:
+            print(f"Action (f{args[0]}) not implemented.")
 
     def set_state(state: str) -> None:
         """

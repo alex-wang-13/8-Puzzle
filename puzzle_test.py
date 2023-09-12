@@ -5,6 +5,18 @@ from puzzle import Puzzle
 
 class PuzzleTestCase(unittest.TestCase):
 
+    def tearDown(self) -> None:
+        """
+        Resets the puzzle after each test case.
+        """
+        
+        Puzzle.reset_puzzle()
+        return super().tearDown()
+
+    def test_action(self):
+        Puzzle.action("setState 012 345 678")
+        self.assertEqual(Puzzle.state, [i for i in range(9)])
+
     def test_init_state(self):
         self.assertEqual(Puzzle.state, [], msg="The puzzle state is not initially an empty list.")
         self.assertFalse(Puzzle.valid, msg="The puzzle is initially valid when it should be invalid.")

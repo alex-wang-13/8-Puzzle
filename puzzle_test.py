@@ -1,4 +1,6 @@
 import unittest
+import io
+import sys
 
 # Import the required class.
 from puzzle import Puzzle
@@ -73,8 +75,21 @@ class PuzzleTestCase(unittest.TestCase):
         self.assertRaises(ValueError, Puzzle.set_state, state="")
 
     def test_print_state(self):
+        output: io.StringIO = io.StringIO()
+        sys.stdout = output
+        # Empty/Invalid print_state.
+        Puzzle.print_state()
+        self.assertEqual(output.getvalue().strip(), "".strip())
+        # Standard print_state.
         Puzzle.set_state("012345678")
         Puzzle.print_state()
+        self.assertEqual(output.getvalue().strip(), "0 1 2\n3 4 5\n6 7 8\n".strip())
+        # Standard print_state.
+        output: io.StringIO = io.StringIO()
+        sys.stdout = output
+        Puzzle.set_state("876543210")
+        Puzzle.print_state()
+        self.assertEqual(output.getvalue().strip(), "8 7 6\n5 4 3\n2 1 0\n".strip())
 
 # Run the test.
 if __name__ == "__main__":

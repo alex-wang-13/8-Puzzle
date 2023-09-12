@@ -41,7 +41,23 @@ class Puzzle:
             # Get the puzzle sequence from the command.
             Puzzle.set_state("".join(args[1:]))
         elif "printstate" in args[0]:
+            # Print the current state of the puzzle.
             Puzzle.print_state()
+        elif "move" in args[0]:
+            # Move the blank tile in the specified direction.
+            Puzzle.move(Direction[args[1].upper()])
+        elif "randomizestate" in args[0]:
+            # Shuffle the puzzle with n moves.
+            Puzzle.randomize_state(int(args[1]))
+        elif "solve" in args[0] and "a-star" in args[1]:
+            pass
+            heuristic = args[2]
+        elif "solve" in args[0] and "beam" in args[1]:
+            pass
+            k = args[2]
+        elif "maxnodes" in args[0]:
+            pass
+            n = args[1]
         else:
             print(f"Action (f{args[0]}) not implemented.")
 

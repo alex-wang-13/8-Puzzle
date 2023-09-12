@@ -114,7 +114,7 @@ class Puzzle:
             b_pos: int = Puzzle.state.index(0)
             match move:
                 case "up":
-                    if b_pos < 4:
+                    if b_pos < 3:
                         raise RuntimeError("It is not possible to move the blank tile up.")
                     Puzzle._swap(b_pos, b_pos-3)
                 case "down":

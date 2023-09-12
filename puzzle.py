@@ -166,6 +166,15 @@ class Puzzle:
                     except RuntimeError:
                         pass
 
+    def solve_astar(hueristic) -> None:
+        pass
+
+    def solve_beam(k) -> None:
+        pass
+
+    def max_nodes(n) -> None:
+        pass
+
     def initialize() -> None:
         """
         A function to initialize the state of the puzzle to "021 345 678".

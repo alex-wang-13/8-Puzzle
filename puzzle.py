@@ -54,9 +54,11 @@ class Puzzle:
 
         # Validate the values of the proposed input state.
         if len(state) != 9:
+            Puzzle.valid = False
             raise ValueError("A state with an invalid length was passed to the puzzle.")
         for n in range(9):
             if n not in state:
+                Puzzle.valid = False
                 raise ValueError(f"A state is missing the number ${n} in the range [0, 8].")
         
         # Update the puzzle state.

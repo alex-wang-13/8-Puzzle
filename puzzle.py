@@ -168,6 +168,8 @@ class Puzzle:
         
         # Re-initialize puzzle before shuffling.
         Puzzle.initialize()
+        # Determine the seed.
+        random.seed("axw582")
         if Puzzle.valid:
             # Repeat n times.
             for _ in range(n):

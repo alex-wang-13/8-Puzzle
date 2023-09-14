@@ -91,7 +91,7 @@ class PuzzleTestCase(unittest.TestCase):
         Puzzle.set_state("876543210")
         Puzzle.print_state()
         self.assertEqual(output.getvalue().strip(), "8 7 6\n5 4 3\n2 1 0\n".strip())
-        sys.stdout = output
+        sys.stdout = sys.__stdout__
 
     def test_move(self):
         Puzzle.set_state("012345678")
@@ -138,7 +138,18 @@ class PuzzleTestCase(unittest.TestCase):
         self.assertRaises(ValueError, Puzzle.move, move="hello")
 
     def test_randomize_state(self):
-        pass
+        Puzzle.randomize_state(1)
+        self.assertEqual(Puzzle.state, [1, 0] + [i for i in range(2, 9)], msg="Does not shuffle blank tile right.")
+        Puzzle.randomize_state(2)
+        self.assertEqual(Puzzle.state, [i for i in range(0, 9)], msg="Does not shuffle blank tile left.")
+        Puzzle.randomize_state(3)
+        self.assertEqual(Puzzle.state, [1, 0] + [i for i in range(2, 9)], msg="Does not shuffle blank tile right.")
+        Puzzle.randomize_state(4)
+        self.assertEqual(Puzzle.state, [i for i in range(0, 9)], msg="Does not shuffle blank tile left.")
+        Puzzle.randomize_state(5)
+        self.assertEqual(Puzzle.state, [1, 0] + [i for i in range(2, 9)], msg="Does not shuffle blank tile right.")
+        Puzzle.randomize_state(6)
+        self.assertEqual(Puzzle.state, [1, 4, 2, 3, 0, 5, 6, 7, 8], msg="Does not shuffle the blank tile down.")
 
 # Run the test.
 if __name__ == "__main__":

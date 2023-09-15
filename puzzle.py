@@ -1,5 +1,6 @@
 import random
 from enum import Enum
+from typing import Callable
 
 class Direction(Enum):
     UP    = 1
@@ -7,9 +8,39 @@ class Direction(Enum):
     LEFT  = 3
     RIGHT = 4
 
+class Node:
+    """
+    A simple struct that represents a node in the search tree.
+    """
+    
+    def __init__(self, state: list[int], parent: "Node", action: Direction, path_cost: int) -> None:
+        """
+        A constructor for this struct.
+
+        Parameters:
+            state (list[int]):
+                A list representing the state represented by this node.
+
+            parent (Node):
+                A node from which this node was generated.
+
+            action (Direction):
+                An action that was performed on the parent node to reach
+                the current state.
+
+            path_cost (int):
+                The total cost of the path from the initial state to this
+                node.
+        """
+
+        self.STATE = state
+        self.PARENT = parent
+        self.ACTION = action
+        self.PATH_COST = path_cost
+
 class Puzzle:
     """
-    A simple struct for holding the puzzle state.
+    A struct for holding the puzzle state.
 
     Class Attributes:
         state (list[int]):
@@ -60,7 +91,7 @@ class Puzzle:
             n = args[1]
             Puzzle.max_nodes(n)
         else:
-            print(f"Action (f{args[0]}) not implemented.")
+            print(f"Action (f{args[0]}) not recognized/implemented.")
 
     def set_state(state: str) -> None:
         """
@@ -140,6 +171,7 @@ class Puzzle:
             # Get the position of the blank tile.
             b_pos: int = Puzzle.state.index(0)
             match move:
+                # TODO idea: Modify logic to use a bitmap.
                 case Direction.UP:
                     if b_pos < 3:
                         raise RuntimeError("It is not possible to move the blank tile up.")
@@ -185,8 +217,17 @@ class Puzzle:
                     except RuntimeError:
                         pass
 
-    def solve_astar(hueristic: str) -> None:
+    def _astar(h_n: Callable[..., int]):
         pass
+
+    def solve_astar(hueristic: str) -> None:
+        match hueristic.lower().strip():
+            case "h1":
+                h_n: int = len(Puzzle.misplaced_tiles())
+            case "h2":
+                h_n: int = Puzzle.manhattan_distanxe()
+            case _:
+                print(f"Hueristic (f{hueristic}) not recognized/implemented.")
 
     def solve_beam(k: int) -> None:
         pass

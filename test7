@@ -1,0 +1,13 @@
+setstate 012 345 678
+randomizestate 500
+maxnodes 500
+solve a-star h1
+setstate 012 345 678
+randomizestate 500
+solve a-star h2
+setstate 012 345 678
+randomizestate 500
+solve beam 20
+setstate 012 345 678
+randomizestate 500
+solve beam 200

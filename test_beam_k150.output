@@ -1,0 +1,12698 @@
+----------------------------------
+----------------------------------
+Nodes considered: 2
+d: 1
+down
+--- 0.0 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 4
+d: 2
+down
+down
+--- 0.0 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 10
+d: 3
+down
+down
+right
+--- 0.0010228157043457031 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 22
+d: 4
+down
+down
+right
+up
+--- 0.001055002212524414 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+up
+--- 0.001009225845336914 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 22
+d: 4
+down
+down
+right
+up
+--- 0.0009357929229736328 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+up
+--- 0.0010390281677246094 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 52
+d: 6
+down
+down
+right
+up
+up
+right
+--- 0.0010004043579101562 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+up
+--- 0.0010845661163330078 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 22
+d: 4
+down
+down
+right
+up
+--- 0.0009732246398925781 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+right
+--- 0.0009691715240478516 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 52
+d: 6
+down
+down
+right
+up
+right
+down
+--- 0.0020008087158203125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+right
+--- 0.0009965896606445312 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 52
+d: 6
+down
+down
+right
+up
+right
+down
+--- 0.0020546913146972656 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+right
+--- 0.0009481906890869141 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 52
+d: 6
+down
+down
+right
+up
+right
+up
+--- 0.0010085105895996094 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+right
+--- 0.0 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 22
+d: 4
+down
+down
+right
+up
+--- 0.0 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 34
+d: 5
+down
+down
+right
+up
+up
+--- 0.0 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 52
+d: 6
+down
+down
+right
+up
+up
+left
+--- 0.0009305477142333984 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 104
+d: 7
+down
+down
+right
+up
+up
+left
+down
+--- 0.002105236053466797 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 202
+d: 8
+down
+down
+right
+up
+up
+left
+down
+right
+--- 0.0059888362884521484 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 104
+d: 7
+down
+down
+right
+up
+up
+left
+down
+--- 0.0020062923431396484 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 52
+d: 6
+down
+down
+right
+up
+up
+left
+--- 0.0011029243469238281 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 104
+d: 7
+down
+down
+right
+up
+up
+left
+down
+--- 0.0020623207092285156 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 202
+d: 8
+down
+down
+right
+up
+up
+left
+down
+right
+--- 0.005049467086791992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 104
+d: 7
+down
+down
+right
+up
+up
+left
+down
+--- 0.002086162567138672 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 202
+d: 8
+down
+down
+right
+up
+up
+left
+down
+right
+--- 0.004062652587890625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 265
+d: 9
+down
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.005579710006713867 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 202
+d: 8
+down
+down
+right
+up
+up
+left
+down
+right
+--- 0.00406336784362793 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 264
+d: 9
+down
+down
+right
+up
+up
+left
+down
+right
+up
+--- 0.006004810333251953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 317
+d: 10
+down
+down
+right
+up
+left
+up
+right
+down
+left
+up
+--- 0.00899815559387207 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 264
+d: 9
+down
+down
+right
+up
+up
+left
+down
+right
+up
+--- 0.004998445510864258 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 202
+d: 8
+down
+down
+right
+up
+up
+left
+down
+right
+--- 0.004000186920166016 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 265
+d: 9
+down
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.0060732364654541016 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 324
+d: 10
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+--- 0.006085395812988281 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 430
+d: 11
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+--- 0.010093927383422852 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 552
+d: 12
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+--- 0.011907815933227539 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 620
+d: 13
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+right
+--- 0.013058900833129883 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 552
+d: 12
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+--- 0.012545347213745117 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 612
+d: 13
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+down
+--- 0.014021873474121094 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 672
+d: 14
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+down
+left
+--- 0.015055418014526367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 764
+d: 15
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+down
+left
+up
+--- 0.017045259475708008 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 895
+d: 16
+down
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+down
+down
+left
+up
+right
+--- 0.019999980926513672 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 949
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+down
+right
+--- 0.02107834815979004 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1021
+d: 18
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+down
+right
+down
+--- 0.022583723068237305 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 949
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+down
+right
+--- 0.021610736846923828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 984
+d: 18
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+right
+--- 0.023006677627563477 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 912
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+up
+--- 0.02104783058166504 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 969
+d: 18
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+--- 0.022747278213500977 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 912
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+up
+--- 0.02104640007019043 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 984
+d: 18
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+right
+--- 0.02205944061279297 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 912
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+up
+--- 0.02097010612487793 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 854
+d: 16
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.02005767822265625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 912
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+up
+--- 0.02055978775024414 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 984
+d: 18
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+right
+--- 0.022016048431396484 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 912
+d: 17
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+up
+--- 0.02098369598388672 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 969
+d: 18
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+--- 0.022011756896972656 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1070
+d: 19
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+--- 0.02364063262939453 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1119
+d: 20
+right
+down
+left
+up
+right
+right
+down
+left
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+--- 0.02605152130126953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1070
+d: 19
+down
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+--- 0.025035858154296875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1158
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+--- 0.026012659072875977 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1229
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+--- 0.027634620666503906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1309
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+--- 0.031000852584838867 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1229
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+--- 0.02797222137451172 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1295
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+right
+--- 0.030572175979614258 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1262
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+--- 0.030019283294677734 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1295
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+right
+--- 0.02902054786682129 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1262
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+--- 0.028038978576660156 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1295
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+right
+--- 0.028578519821166992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1262
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+--- 0.031003952026367188 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1333
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+up
+--- 0.03700447082519531 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1262
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+--- 0.03130340576171875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1203
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+--- 0.029941797256469727 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1262
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+--- 0.030064105987548828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1203
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+--- 0.02856135368347168 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1258
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+--- 0.03096175193786621 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1323
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+up
+--- 0.03200078010559082 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1268
+d: 21
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+--- 0.0296170711517334 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1199
+d: 20
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+--- 0.02700042724609375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1244
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+down
+left
+up
+up
+left
+down
+--- 0.02905106544494629 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1147
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+down
+left
+up
+up
+left
+--- 0.028070449829101562 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1244
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+down
+left
+up
+up
+left
+down
+--- 0.028578519821166992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1199
+d: 20
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+--- 0.02806258201599121 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1268
+d: 21
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+--- 0.029999494552612305 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1332
+d: 22
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+right
+--- 0.03260636329650879 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1268
+d: 21
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+--- 0.03107166290283203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1323
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+up
+--- 0.031054019927978516 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1268
+d: 21
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+--- 0.02953052520751953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1323
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+up
+--- 0.03205227851867676 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1268
+d: 21
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+--- 0.03001117706298828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1323
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+up
+--- 0.031703948974609375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1258
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+--- 0.02800297737121582 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1203
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+--- 0.02906942367553711 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1258
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+--- 0.030014991760253906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1203
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+--- 0.028676986694335938 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1258
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+--- 0.03104400634765625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1323
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+up
+--- 0.03107166290283203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1258
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+--- 0.0294644832611084 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1323
+d: 22
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+left
+up
+--- 0.03300619125366211 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1268
+d: 21
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+--- 0.029994964599609375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1199
+d: 20
+down
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+--- 0.02753615379333496 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1264
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+right
+down
+left
+--- 0.029065608978271484 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1157
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+right
+down
+--- 0.027026653289794922 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1098
+d: 19
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+right
+--- 0.02501535415649414 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1129
+d: 20
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+right
+up
+--- 0.027593612670898438 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1200
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+right
+up
+left
+--- 0.027994394302368164 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1115
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+--- 0.02504754066467285 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1200
+d: 21
+right
+right
+down
+down
+left
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+right
+up
+left
+--- 0.02763652801513672 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1305
+d: 22
+down
+down
+right
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+left
+up
+right
+--- 0.031023740768432617 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1367
+d: 23
+down
+down
+right
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+left
+up
+right
+right
+--- 0.03400135040283203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1444
+d: 24
+down
+down
+right
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+left
+up
+right
+right
+down
+--- 0.041174888610839844 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1367
+d: 23
+down
+down
+right
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+left
+up
+right
+right
+--- 0.0330202579498291 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1305
+d: 22
+down
+down
+right
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+left
+up
+right
+--- 0.03204751014709473 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1197
+d: 21
+right
+down
+left
+down
+right
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+--- 0.029537439346313477 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1254
+d: 22
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+down
+--- 0.031978607177734375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1213
+d: 21
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+--- 0.03205680847167969 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1130
+d: 20
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+--- 0.028524160385131836 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1213
+d: 21
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+--- 0.03101348876953125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1254
+d: 22
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+down
+--- 0.032012224197387695 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1213
+d: 21
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+--- 0.02810382843017578 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1310
+d: 22
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+right
+--- 0.030004024505615234 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1202
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+--- 0.03000783920288086 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1271
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+left
+--- 0.03005814552307129 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1370
+d: 23
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+left
+--- 0.032546043395996094 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1303
+d: 22
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+--- 0.03200888633728027 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1372
+d: 23
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+down
+--- 0.0475153923034668 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1303
+d: 22
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+--- 0.04709291458129883 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1370
+d: 23
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+left
+--- 0.04102778434753418 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1271
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+left
+--- 0.03758978843688965 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1202
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+--- 0.028016328811645508 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1117
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+--- 0.02708721160888672 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1202
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+left
+--- 0.030348777770996094 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1117
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+--- 0.029012441635131836 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.02502918243408203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1150
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+--- 0.027649641036987305 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+left
+--- 0.03099536895751953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.04302668571472168 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+left
+--- 0.027625322341918945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.03205990791320801 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.02903294563293457 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.03669619560241699 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+left
+--- 0.029968738555908203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1150
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+--- 0.029064416885375977 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.025035858154296875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1150
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+--- 0.026537656784057617 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+left
+--- 0.029061317443847656 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.032109737396240234 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.028516054153442383 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.0320436954498291 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.03100299835205078 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1283
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.031534433364868164 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.03197503089904785 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.032998085021972656 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+left
+--- 0.028657197952270508 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1150
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+--- 0.02804088592529297 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.026963472366333008 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1117
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+--- 0.027138233184814453 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.0266416072845459 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1117
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+up
+--- 0.025940895080566406 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.0250399112701416 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1150
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+--- 0.02663731575012207 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.026036500930786133 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1150
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+--- 0.027022838592529297 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+--- 0.026142358779907227 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1026
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+--- 0.024580717086791992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1064
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+--- 0.027029991149902344 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 944
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+down
+--- 0.023010730743408203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 907
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+--- 0.020998716354370117 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.021698951721191406 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 897
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+--- 0.021003007888793945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 799
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+--- 0.021997928619384766 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 762
+d: 15
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+--- 0.018087148666381836 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 799
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+--- 0.01913595199584961 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 897
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+--- 0.023703813552856445 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 937
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+left
+--- 0.02301645278930664 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 897
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+--- 0.022001266479492188 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 937
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+left
+--- 0.023148536682128906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 905
+d: 17
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+--- 0.021662235260009766 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 956
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+--- 0.02299642562866211 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 905
+d: 17
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+--- 0.021059751510620117 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 956
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+--- 0.02305769920349121 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 905
+d: 17
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+--- 0.02070927619934082 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 856
+d: 16
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+--- 0.020068645477294922 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 905
+d: 17
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+--- 0.021958351135253906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 956
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+--- 0.02302861213684082 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1072
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+down
+--- 0.026140213012695312 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 956
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+--- 0.024224281311035156 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1072
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+down
+--- 0.024941444396972656 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 973
+d: 18
+down
+right
+up
+right
+down
+left
+left
+up
+right
+right
+down
+down
+left
+up
+left
+down
+right
+right
+--- 0.023061037063598633 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1072
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+down
+--- 0.025682926177978516 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 956
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+right
+--- 0.022075653076171875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 905
+d: 17
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+--- 0.02202582359313965 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 937
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+right
+up
+left
+up
+left
+--- 0.022061824798583984 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 897
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+--- 0.021156787872314453 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.023502111434936523 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1050
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+up
+--- 0.025061607360839844 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.022994279861450195 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 907
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+--- 0.02206587791442871 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.023578643798828125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.025079965591430664 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.028075695037841797 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.02975606918334961 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.02693915367126465 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.026005268096923828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.022933483123779297 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.023755311965942383 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.026071548461914062 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 907
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+--- 0.022072315216064453 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 785
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+--- 0.019064664840698242 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 732
+d: 15
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+--- 0.01723456382751465 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 783
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+left
+--- 0.018717527389526367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 732
+d: 15
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+--- 0.018065690994262695 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 785
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+--- 0.019060134887695312 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 907
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+--- 0.02207779884338379 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 785
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+--- 0.022125720977783203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 907
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+--- 0.028951168060302734 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 785
+d: 16
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+--- 0.019101381301879883 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 907
+d: 17
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+--- 0.022926807403564453 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 988
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+--- 0.0230712890625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.02406764030456543 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 953
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+right
+up
+up
+right
+down
+left
+left
+down
+--- 0.023021697998046875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.02402806282043457 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.025578737258911133 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.031082630157470703 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1119
+d: 20
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+left
+up
+right
+right
+--- 0.02805042266845703 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.030141830444335938 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1119
+d: 20
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+left
+up
+right
+right
+--- 0.02773141860961914 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+--- 0.02606344223022461 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1119
+d: 20
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+left
+up
+right
+right
+--- 0.028997421264648438 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+--- 0.029515504837036133 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1189
+d: 20
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+--- 0.025990009307861328 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1079
+d: 19
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+--- 0.025937795639038086 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1119
+d: 20
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+left
+up
+right
+right
+--- 0.025065183639526367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.02950453758239746 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.02707672119140625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.03006577491760254 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.0337526798248291 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.03100299835205078 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.03298211097717285 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.03067183494567871 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1119
+d: 20
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+left
+up
+right
+right
+--- 0.02696537971496582 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.028998613357543945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.025629520416259766 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.02897930145263672 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.03406357765197754 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.02915024757385254 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.027067899703979492 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.02506542205810547 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 953
+d: 18
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+right
+up
+up
+right
+down
+left
+left
+down
+--- 0.031122446060180664 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1055
+d: 19
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+--- 0.025709152221679688 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1126
+d: 20
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+down
+right
+--- 0.025986671447753906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1217
+d: 21
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+--- 0.029047012329101562 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1343
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+right
+--- 0.030806303024291992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.031017780303955078 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.028005599975585938 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.04178977012634277 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.027066946029663086 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1083
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+--- 0.02702808380126953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.02807021141052246 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1083
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+--- 0.024665355682373047 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1020
+d: 18
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+--- 0.02399754524230957 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1083
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+--- 0.023955106735229492 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.026721954345703125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.030008554458618164 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.028067350387573242 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.03206896781921387 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1283
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.03165245056152344 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.03200387954711914 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1283
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.03010416030883789 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1386
+d: 23
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+right
+--- 0.03363966941833496 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1359
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+--- 0.031993865966796875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1252
+d: 21
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+--- 0.030097246170043945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1359
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+--- 0.04973101615905762 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1416
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+up
+--- 0.03499794006347656 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1486
+d: 24
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+up
+left
+--- 0.03578066825866699 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1416
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+up
+--- 0.03295707702636719 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1359
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+--- 0.03194117546081543 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1252
+d: 21
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+--- 0.031644582748413086 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1359
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+left
+down
+right
+up
+up
+left
+down
+right
+--- 0.03193354606628418 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1386
+d: 23
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+right
+--- 0.030964374542236328 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1463
+d: 24
+right
+right
+down
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+up
+left
+down
+down
+right
+up
+up
+right
+down
+down
+--- 0.033583879470825195 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1386
+d: 23
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+right
+--- 0.032044410705566406 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1283
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.03115081787109375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.0386958122253418 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1283
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.030019044876098633 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1257
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.029062986373901367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.026531696319580078 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1083
+d: 19
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+--- 0.025986671447753906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1114
+d: 20
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+right
+--- 0.02498793601989746 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1225
+d: 21
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+right
+down
+--- 0.02852153778076172 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1301
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+right
+down
+down
+--- 0.030007123947143555 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.033986806869506836 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1296
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+--- 0.034656524658203125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1221
+d: 21
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+--- 0.030054807662963867 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1296
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+--- 0.0320124626159668 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1221
+d: 21
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+--- 0.030601978302001953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1255
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+up
+--- 0.03006291389465332 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1221
+d: 21
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+--- 0.029954195022583008 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1296
+d: 22
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+--- 0.031080961227416992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.03958916664123535 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1301
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+right
+down
+down
+--- 0.031003952026367188 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.034510135650634766 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1198
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+--- 0.027997255325317383 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1383
+d: 23
+down
+down
+right
+up
+left
+up
+right
+down
+left
+down
+right
+up
+left
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+--- 0.03199434280395508 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+down
+down
+left
+up
+right
+up
+right
+--- 0.026038646697998047 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1383
+d: 23
+down
+down
+right
+up
+left
+up
+right
+down
+left
+down
+right
+up
+left
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+--- 0.03163909912109375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1198
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+--- 0.028025388717651367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.033078908920288086 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1301
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+right
+down
+down
+--- 0.03171730041503906 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.033074140548706055 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1198
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+--- 0.03304409980773926 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.03364849090576172 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1301
+d: 22
+right
+right
+down
+down
+left
+up
+left
+up
+right
+down
+left
+down
+right
+up
+right
+down
+left
+up
+up
+right
+down
+down
+--- 0.03100419044494629 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1388
+d: 23
+down
+right
+up
+right
+down
+left
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+left
+down
+right
+--- 0.03475642204284668 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1198
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+--- 0.0290679931640625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1383
+d: 23
+down
+down
+right
+up
+left
+up
+right
+down
+left
+down
+right
+up
+left
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+--- 0.03406405448913574 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1123
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+down
+down
+left
+up
+right
+up
+right
+--- 0.02709794044494629 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1383
+d: 23
+down
+down
+right
+up
+left
+up
+right
+down
+left
+down
+right
+up
+left
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+--- 0.0326540470123291 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1198
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+--- 0.029055356979370117 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1684
+d: 27
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+up
+--- 0.04270815849304199 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1716
+d: 28
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+up
+--- 0.040023088455200195 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+--- 0.03800511360168457 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.035660505294799805 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1533
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+--- 0.037033796310424805 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1569
+d: 26
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+left
+--- 0.03600025177001953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1533
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+--- 0.03801703453063965 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.03599357604980469 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+--- 0.03761124610900879 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1716
+d: 28
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+up
+--- 0.04199481010437012 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1684
+d: 27
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+up
+--- 0.04063129425048828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1198
+d: 20
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+--- 0.02800726890563965 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1684
+d: 27
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+up
+--- 0.039948463439941406 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1710
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+--- 0.041730642318725586 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1649
+d: 27
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+left
+down
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+right
+--- 0.04001331329345703 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1705
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+down
+--- 0.04341721534729004 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1649
+d: 27
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+left
+down
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+right
+--- 0.04100680351257324 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1710
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+--- 0.04306173324584961 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1649
+d: 27
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+left
+down
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+right
+--- 0.04250311851501465 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1710
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+--- 0.04201364517211914 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1684
+d: 27
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+up
+--- 0.04260730743408203 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1710
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+--- 0.04699134826660156 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1684
+d: 27
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+up
+--- 0.042532920837402344 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1710
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+--- 0.043949127197265625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1649
+d: 27
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+left
+down
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+up
+right
+down
+right
+--- 0.041707754135131836 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1710
+d: 28
+right
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+--- 0.04102206230163574 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1684
+d: 27
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+up
+--- 0.042057037353515625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1716
+d: 28
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+up
+--- 0.04213094711303711 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+--- 0.03700685501098633 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1850
+d: 30
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+left
+down
+--- 0.046566009521484375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+--- 0.03699827194213867 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.035047292709350586 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1533
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+--- 0.03896069526672363 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1569
+d: 26
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+left
+--- 0.039006948471069336 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1533
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+--- 0.03769040107727051 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1448
+d: 24
+down
+right
+right
+down
+left
+up
+left
+down
+right
+up
+up
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+right
+down
+down
+--- 0.036054372787475586 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1533
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+down
+--- 0.03894805908203125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.037642478942871094 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1384
+d: 23
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+--- 0.03399968147277832 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.03753018379211426 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+--- 0.04002118110656738 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1850
+d: 30
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+up
+up
+left
+down
+right
+up
+right
+down
+left
+left
+down
+--- 0.04455757141113281 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+left
+--- 0.037996768951416016 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.034009695053100586 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1386
+d: 23
+right
+down
+left
+down
+right
+up
+up
+left
+down
+right
+right
+down
+left
+left
+up
+right
+down
+right
+up
+left
+up
+right
+down
+--- 0.03646397590637207 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1474
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+down
+--- 0.03705024719238281 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1384
+d: 23
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+--- 0.033056020736694336 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1451
+d: 24
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+left
+--- 0.033545494079589844 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1561
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+left
+down
+--- 0.03501296043395996 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1375
+d: 22
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+up
+right
+down
+--- 0.03499960899353027 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1561
+d: 25
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+right
+up
+left
+left
+down
+--- 0.0375971794128418 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1375
+d: 22
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+up
+right
+down
+--- 0.03299546241760254 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1400
+d: 23
+right
+down
+down
+left
+up
+up
+right
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+up
+right
+down
+down
+--- 0.03360581398010254 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1611
+d: 26
+down
+right
+down
+left
+up
+up
+right
+right
+down
+left
+up
+left
+down
+right
+up
+right
+down
+left
+down
+left
+up
+up
+right
+down
+left
+down
+--- 0.03696084022521973 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1566
+d: 25
+down
+right
+right
+up
+left
+down
+down
+left
+up
+up
+right
+down
+right
+up
+left
+left
+down
+right
+down
+left
+up
+up
+right
+down
+left
+--- 0.03699016571044922 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1484
+d: 24
+down
+right
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+up
+left
+--- 0.037561893463134766 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1425
+d: 23
+down
+right
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+up
+--- 0.03602027893066406 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1790
+d: 28
+down
+right
+down
+left
+up
+up
+right
+right
+down
+left
+up
+left
+down
+right
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+right
+up
+right
+--- 0.043738603591918945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1577
+d: 25
+down
+right
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+up
+right
+down
+--- 0.04002261161804199 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2067
+d: 32
+down
+right
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+right
+down
+left
+left
+up
+right
+down
+right
+--- 0.052614688873291016 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2157
+d: 33
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+right
+--- 0.054006099700927734 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2067
+d: 32
+down
+right
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+right
+down
+left
+left
+up
+right
+down
+right
+--- 0.052541255950927734 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1577
+d: 25
+down
+right
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+up
+right
+down
+--- 0.03699994087219238 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2067
+d: 32
+down
+right
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+right
+down
+left
+left
+up
+right
+down
+right
+--- 0.05273747444152832 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1577
+d: 25
+down
+right
+down
+right
+up
+up
+left
+down
+right
+down
+left
+up
+left
+down
+right
+up
+right
+up
+left
+left
+down
+right
+up
+right
+down
+--- 0.04099106788635254 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2067
+d: 32
+down
+right
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+up
+right
+down
+left
+up
+left
+down
+right
+right
+up
+left
+down
+right
+down
+left
+left
+up
+right
+down
+right
+--- 0.04978632926940918 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2157
+d: 33
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+right
+--- 0.051964521408081055 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2055
+d: 32
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.04963946342468262 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2007
+d: 31
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.04901003837585449 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2055
+d: 32
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+down
+--- 0.05173516273498535 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 2007
+d: 31
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+down
+--- 0.04999685287475586 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1916
+d: 30
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.05060696601867676 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1288
+d: 21
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+down
+left
+up
+right
+right
+down
+left
+up
+up
+--- 0.029979467391967773 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1916
+d: 30
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+left
+--- 0.044055938720703125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1288
+d: 21
+down
+right
+down
+left
+up
+right
+right
+up
+left
+left
+down
+right
+down
+left
+up
+right
+right
+down
+left
+up
+up
+--- 0.029597997665405273 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1892
+d: 30
+right
+right
+down
+left
+down
+right
+up
+up
+left
+left
+down
+right
+right
+down
+left
+up
+right
+up
+left
+left
+down
+down
+right
+up
+right
+down
+left
+up
+up
+right
+--- 0.04600358009338379 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1865
+d: 29
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+right
+down
+left
+up
+left
+up
+right
+right
+down
+left
+up
+left
+down
+down
+right
+up
+right
+--- 0.04576683044433594 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1469
+d: 24
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+right
+--- 0.03500175476074219 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1427
+d: 23
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+--- 0.034082889556884766 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1133
+d: 20
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+left
+down
+--- 0.02672600746154785 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1427
+d: 23
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+--- 0.03599119186401367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1469
+d: 24
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+right
+--- 0.03399300575256348 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1865
+d: 29
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+right
+down
+left
+up
+left
+up
+right
+right
+down
+left
+up
+left
+down
+down
+right
+up
+right
+--- 0.044634342193603516 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1469
+d: 24
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+right
+--- 0.036978721618652344 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1865
+d: 29
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+right
+down
+left
+up
+left
+up
+right
+right
+down
+left
+up
+left
+down
+down
+right
+up
+right
+--- 0.048667192459106445 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1469
+d: 24
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+right
+--- 0.03400015830993652 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1427
+d: 23
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+left
+left
+down
+right
+--- 0.03367328643798828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1133
+d: 20
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+left
+down
+--- 0.029015064239501953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1058
+d: 19
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+left
+--- 0.024936676025390625 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1013
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+--- 0.024005413055419922 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 917
+d: 17
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+--- 0.023638486862182617 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1013
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+--- 0.024969100952148438 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1058
+d: 19
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+left
+--- 0.026017427444458008 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1013
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+--- 0.024023056030273438 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1095
+d: 19
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+down
+--- 0.026229143142700195 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1013
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+left
+--- 0.023992061614990234 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 917
+d: 17
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+--- 0.022016525268554688 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 955
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+down
+--- 0.021952152252197266 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 917
+d: 17
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+--- 0.0200042724609375 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 955
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+down
+--- 0.022945165634155273 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1223
+d: 21
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+--- 0.02800154685974121 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 955
+d: 18
+down
+right
+down
+right
+up
+up
+left
+down
+down
+right
+up
+left
+left
+up
+right
+right
+down
+down
+--- 0.023701190948486328 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1223
+d: 21
+down
+right
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+right
+up
+left
+up
+right
+down
+down
+left
+--- 0.028940916061401367 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1443
+d: 24
+down
+down
+right
+right
+up
+left
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+left
+left
+down
+down
+right
+up
+--- 0.03400111198425293 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1497
+d: 25
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+right
+up
+left
+down
+--- 0.03667616844177246 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1443
+d: 24
+down
+down
+right
+right
+up
+left
+down
+left
+up
+up
+right
+down
+down
+left
+up
+right
+right
+up
+left
+left
+down
+down
+right
+up
+--- 0.03596854209899902 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1353
+d: 23
+right
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+down
+right
+right
+up
+up
+left
+--- 0.03100442886352539 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1560
+d: 26
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+up
+--- 0.03760266304016113 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1353
+d: 23
+right
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+down
+right
+right
+up
+up
+left
+--- 0.03297162055969238 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1267
+d: 22
+right
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+down
+right
+right
+up
+up
+--- 0.030926227569580078 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1353
+d: 23
+right
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+down
+right
+right
+up
+up
+left
+--- 0.03562116622924805 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1560
+d: 26
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+up
+--- 0.03894352912902832 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1516
+d: 25
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+left
+--- 0.03757834434509277 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1454
+d: 24
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+--- 0.034935951232910156 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1540
+d: 25
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+--- 0.03900790214538574 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1567
+d: 26
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+left
+--- 0.03866887092590332 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1540
+d: 25
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+--- 0.036992549896240234 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1564
+d: 26
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+right
+--- 0.040077924728393555 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1540
+d: 25
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+--- 0.03795361518859863 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1567
+d: 26
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+down
+right
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+left
+--- 0.03900957107543945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1682
+d: 27
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+left
+--- 0.038632869720458984 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1194
+d: 20
+right
+down
+down
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+up
+left
+down
+--- 0.02806854248046875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1682
+d: 27
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+left
+--- 0.04115486145019531 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1194
+d: 20
+right
+down
+down
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+up
+left
+down
+--- 0.028090238571166992 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1241
+d: 21
+right
+down
+down
+right
+up
+left
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+right
+up
+left
+down
+down
+--- 0.03000330924987793 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1752
+d: 28
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+down
+right
+up
+up
+left
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+left
+--- 0.04563426971435547 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1826
+d: 29
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+up
+left
+left
+down
+down
+right
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+--- 0.045996665954589844 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1894
+d: 30
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+up
+left
+left
+down
+down
+right
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+up
+--- 0.04878592491149902 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1826
+d: 29
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+up
+left
+left
+down
+down
+right
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+--- 0.05893421173095703 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1894
+d: 30
+right
+right
+down
+down
+left
+up
+right
+up
+left
+down
+right
+up
+left
+left
+down
+down
+right
+up
+up
+right
+down
+down
+left
+up
+right
+up
+left
+down
+left
+up
+--- 0.04772782325744629 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1574
+d: 25
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+down
+right
+up
+left
+--- 0.03999972343444824 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1316
+d: 22
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+up
+--- 0.03303790092468262 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1280
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+--- 0.03007030487060547 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1349
+d: 22
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+down
+--- 0.0339818000793457 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1264
+d: 21
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+--- 0.03208732604980469 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1147
+d: 20
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+--- 0.027996063232421875 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1111
+d: 19
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+--- 0.029026508331298828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1147
+d: 20
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+--- 0.028007984161376953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1264
+d: 21
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+--- 0.030580520629882812 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1349
+d: 22
+right
+down
+left
+up
+right
+down
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+down
+--- 0.030032634735107422 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1254
+d: 21
+down
+right
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+down
+left
+down
+right
+--- 0.02900075912475586 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1326
+d: 22
+down
+right
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+down
+left
+down
+right
+right
+--- 0.03257942199707031 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1442
+d: 23
+down
+right
+down
+left
+up
+up
+right
+down
+down
+right
+up
+left
+down
+left
+up
+up
+right
+down
+left
+down
+right
+right
+up
+--- 0.03399991989135742 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1376
+d: 22
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+--- 0.03406572341918945 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1405
+d: 23
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+up
+--- 0.03501415252685547 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1304
+d: 22
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+up
+--- 0.03301048278808594 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+--- 0.0296022891998291 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1206
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+--- 0.026999950408935547 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1084
+d: 19
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+--- 0.027001619338989258 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 994
+d: 18
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+--- 0.02306985855102539 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1084
+d: 19
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+--- 0.02962517738342285 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1206
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+--- 0.028000354766845703 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+--- 0.0300142765045166 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1304
+d: 22
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+up
+--- 0.031717538833618164 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+--- 0.030938148498535156 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1304
+d: 22
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+up
+--- 0.03603339195251465 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+--- 0.03058934211730957 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1470
+d: 24
+down
+right
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+right
+down
+left
+left
+down
+--- 0.04098081588745117 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1238
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+left
+--- 0.038544416427612305 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1206
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+--- 0.0280303955078125 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1260
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+right
+--- 0.030968189239501953 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1206
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+--- 0.028028011322021484 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1084
+d: 19
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+--- 0.04953598976135254 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 994
+d: 18
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+--- 0.028019428253173828 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1084
+d: 19
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+--- 0.02558159828186035 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1206
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+--- 0.028990745544433594 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1427
+d: 23
+down
+right
+down
+left
+up
+up
+right
+down
+right
+down
+left
+up
+right
+up
+left
+left
+down
+right
+up
+right
+down
+left
+up
+--- 0.03499341011047363 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1206
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+up
+--- 0.03058147430419922 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1084
+d: 19
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+--- 0.025999784469604492 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1151
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+--- 0.027056455612182617 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1244
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+up
+--- 0.030642271041870117 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1151
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+--- 0.02899909019470215 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1084
+d: 19
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+--- 0.027005434036254883 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1151
+d: 20
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+--- 0.02601027488708496 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1244
+d: 21
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+up
+--- 0.028589963912963867 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1297
+d: 22
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+up
+up
+--- 0.031957149505615234 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1389
+d: 23
+down
+right
+up
+right
+down
+left
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+up
+up
+right
+--- 0.0350794792175293 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1891
+d: 30
+down
+right
+up
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+up
+left
+down
+right
+down
+right
+up
+left
+left
+down
+right
+right
+up
+up
+--- 0.0465846061706543 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1242
+d: 21
+down
+right
+down
+right
+up
+up
+left
+down
+down
+left
+up
+right
+right
+down
+left
+left
+up
+up
+right
+down
+right
+--- 0.031011343002319336 seconds ---
+----------------------------------
+----------------------------------
+Nodes considered: 1589
+d: 26
+down
+right
+up
+right
+down
+left
+left
+up
+right
+right
+down
+left
+down
+left
+up
+right
+down
+right
+up
+left
+up
+left
+down
+down
+right
+right
+--- 0.03873944282531738 seconds ---

@@ -1,0 +1,22 @@
+setstate 142 305 678
+printstate
+move down
+printstate
+move right
+printstate
+move up
+printstate
+move up
+printstate
+move left
+printstate
+move left
+printstate
+move down
+printstate
+move down
+printstate
+move right
+printstate
+move up
+printstate

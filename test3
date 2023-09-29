@@ -1,0 +1,4 @@
+setstate 012 345 678
+randomizestate 500
+printstate
+solve a-star h2
